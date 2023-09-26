@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "gmail": "johndoe@gmail.com",
+    "telephone_number": "1234567890"
+  },
+  {
+    "id": 2,
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "username": "janesmith",
+    "gmail": "janesmith@gmail.com",
+    "telephone_number": "9876543210"
+  },
+  {
+    "id": 3,
+    "first_name": "Michael",
+    "last_name": "Johnson",
+    "username": "michaeljohnson",
+    "gmail": "michaeljohnson@gmail.com",
+    "telephone_number": "5551234567"
+  },
+  {
+    "id": 4,
+    "first_name": "Emily",
+    "last_name": "Brown",
+    "username": "emilybrown",
+    "gmail": "emilybrown@gmail.com",
+    "telephone_number": "2223334444"
+  },
+  {
+    "id": 5,
+    "first_name": "William",
+    "last_name": "Davis",
+    "username": "williamdavis",
+    "gmail": "williamdavis@gmail.com",
+    "telephone_number": "8887779999"
+  },
+  {
+    "id": 6,
+    "first_name": "Sarah",
+    "last_name": "Wilson",
+    "username": "sarahwilson",
+    "gmail": "sarahwilson@gmail.com",
+    "telephone_number": "1112223333"
+  },
+  {
+    "id": 7,
+    "first_name": "David",
+    "last_name": "Lee",
+    "username": "davidlee",
+    "gmail": "davidlee@gmail.com",
+    "telephone_number": "3335557777"
+  },
+  {
+    "id": 8,
+    "first_name": "Olivia",
+    "last_name": "Martinez",
+    "username": "oliviamartinez",
+    "gmail": "oliviamartinez@gmail.com",
+    "telephone_number": "7778881111"
+  },
+  {
+    "id": 9,
+    "first_name": "James",
+    "last_name": "Garcia",
+    "username": "jamesgarcia",
+    "gmail": "jamesgarcia@gmail.com",
+    "telephone_number": "9994442222"
+  },
+  {
+    "id": 10,
+    "first_name": "Sophia",
+    "last_name": "Rodriguez",
+    "username": "sophiarodriguez",
+    "gmail": "sophiarodriguez@gmail.com",
+    "telephone_number": "4446668888"
+  },
+  {
+    "id": 11,
+    "first_name": "Ziya",
+    "last_name": "Badalov",
+    "username": "Mirishh",
+    "gmail": "mirishbedelov08@gmail.com",
+    "telephone_number": "55555555555"
+  }
+]
